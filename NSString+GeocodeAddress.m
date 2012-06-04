@@ -6,6 +6,9 @@
 //  Copyright (c) 2012 Eric Goldberg. All rights reserved.
 //
 
+//  Most code in here taken directly from kwylez: https://gist.github.com/1952410
+//  Main difference is returning more data in a dictionary instead of just lat/lon coordinate
+
 #import "NSString+GeocodeAddress.h"
 #import "JSONKit.h"
 

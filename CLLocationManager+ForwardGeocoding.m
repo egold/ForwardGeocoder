@@ -6,6 +6,8 @@
 //  Copyright (c) 2012 Eric Goldberg. All rights reserved.
 //
 
+//  Most code in here taken directly from kwylez: https://gist.github.com/1952410
+
 #import "CLLocationManager+ForwardGeocoding.h"
 #import "NSString+GeocodeAddress.h"
 
